@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://euns52.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#000000?logo=https://simpleicons.org/icons/tistory.svg&logoColor=#FFFFFF"/></a>
+<a href="https://euns52.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/000000?logo=https://simpleicons.org/icons/tistory.svg&logoColor=FFFFFF"/></a>
 
 <!--
 **gabury1/gabury1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
