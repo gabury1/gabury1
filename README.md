@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=@LYST&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+**![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=@LYST&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabury1&layout=compact&theme=ambient_gradient&count_private=true)
 
 ## 👋 About Me
@@ -29,3 +29,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
+**
