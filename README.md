@@ -70,6 +70,14 @@
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gabury1&hide_border=true&theme=tokyonight" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabury1/gabury1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabury1/gabury1/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabury1/gabury1/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
