@@ -1,29 +1,64 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=@LYST&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=220&section=header&text=Eunsoo%20Jang&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20DevOps%20%E2%80%A2%20Building%20things&descSize=18&descAlignY=60)
 
-## 👋 About Me
-백엔드 개발자 장은수입니다.<br>
-노력, 끈기, 집요함으로 삶을 대하려 노력합니다.<br>
+<div align="center">
 
-<div>
-<h3>Language</h3>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">    
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+**문제를 코드로 끝까지 밀어붙이는 백엔드/인프라 개발자**
+
+제품을 직접 만들고, 띄우고, 굴립니다. 지금은 창업 중.
+
+</div>
+
+---
+
+### 🔨 지금 만드는 것
+
+- **T-gates** — 스타트업 빌딩. 백엔드부터 인프라까지 직접 설계·운영
+- **사이드 프로젝트** — AI 에이전트 기반 서비스 실험 (소설 작성 에이전트 외)
+- 굴러가는 제품 하나가 잘 쓴 이력서 열 장보다 낫다고 믿음
+
+### 🧰 다루는 것
+
+**Backend**
 <br>
-<h3>Frameworks</h3>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+
+**Infra / DevOps**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+
+**Data / Search**
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white">
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white">
+
+<sub>요즘 파고드는 중: C++ · AI 에이전트 오케스트레이션</sub>
+
+---
+
+### 📊 활동
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabury1&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabury1&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 <br>
-<h3>Infra</h3>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-<br>
-<h3>Favorites</h3>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-<img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gabury1&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Backend that doesn't fall over. Products that ship.</sub>
 </div>
