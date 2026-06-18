@@ -25,22 +25,35 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+
 **Infra / DevOps**
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Self--Hosted-0F3460?style=flat-square&logo=raspberrypi&logoColor=white">
 
-**Data / Search**
+**Data / Realtime**
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
-<img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white">
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white">
 
-<sub>요즘 파고드는 중: C++ · AI 에이전트 오케스트레이션</sub>
+**AI / Agent**
+<br>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white">
+<img src="https://img.shields.io/badge/Codex%20CLI-412991?style=flat-square&logo=openai&logoColor=white">
+
+<sub>요즘 파고드는 중: C++ · 멀티 에이전트 오케스트레이션</sub>
 
 ---
 
